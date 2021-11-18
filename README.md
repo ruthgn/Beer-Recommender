@@ -1,6 +1,8 @@
 # Beer-Recommender
 
-Beer recommender app (Status: In Progress) 
+Creating a beer recommendation engine. (Status: In Progress)
+
+Preliminary analysis: [What We Talk About When We Talk About Good Beer](https://www.kaggle.com/ruthgn/what-we-talk-about-when-we-talk-about-good-beer).
 
 
 Files (Pending)
