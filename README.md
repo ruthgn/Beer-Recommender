@@ -7,5 +7,5 @@ Preliminary analysis: [What We Talk About When We Talk About Good Beer](https://
 
 Files (Pending)
 -----
-* [Beer Profile and Ratings Data Set](https://www.kaggle.com/ruthgn/wine-quality-data-set-red-white-wine) (beer_profile_and_ratings.csv).
+* [Beer Profile and Ratings Data Set](https://www.kaggle.com/ruthgn/beer-profile-and-ratings-data-set) (beer_profile_and_ratings.csv).
 
