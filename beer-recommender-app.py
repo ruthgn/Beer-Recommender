@@ -41,24 +41,24 @@ st.sidebar.markdown("----")
 
 st.sidebar.header('How It Works')
 st.sidebar.markdown("""
-Recommendations are generated from a list of 3197 unique beers from 934 different breweries, while taking into account the following aspects of each beer:
+Recommendations are generated from a list of 3197 unique beers from 934 different breweries and take into consideration the following aspects of each beer:
 
-* Alcohol content (% by volume)
-* Minimum and maximum IBU (International Bitterness Units)
-* Mouthfeel:
-    * Astringency
-    * Body
-    * Alcohol
-* Taste:
-    * Bitter
-    * Sweet
-    * Sour
-    * Salty
-* Flavor And Aroma:
-    * Fruits
-    * Hoppy
-    * Spices
-    * Malty 
+*Alcohol content* (% by volume)
+*Minimum and maximum IBU* (International Bitterness Units)
+*Mouthfeel*
+   * Astringency
+   * Body
+   * Alcohol
+*Taste*
+   * Bitter
+   * Sweet
+   * Sour
+   * Salty
+*Flavor And Aroma*
+   * Fruits
+   * Hoppy
+   * Spices
+   * Malty 
 """)
 st.sidebar.markdown("----")
 
