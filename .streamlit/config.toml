@@ -2,6 +2,6 @@
 
 primaryColor = "#141b92" #dark-blue
 backgroundColor = "#f5f7f3"
-secondaryBackgroundColor = "#ffa812" #dark-tangerine
+secondaryBackgroundColor = "#FFBF00" #amber
 textColor = "#262730"
 font = "sans serif"
