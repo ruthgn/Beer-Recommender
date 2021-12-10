@@ -76,7 +76,6 @@ Kaggle notebook outlining the recommendation engine building process is availabl
 
 st.markdown("----")
 st.markdown("\n")
-st.markdown("\n")
 
 ##########
 
