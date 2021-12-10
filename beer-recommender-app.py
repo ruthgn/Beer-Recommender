@@ -39,7 +39,7 @@ st.sidebar.write("""
 )
 st.sidebar.markdown("----")
 
-st.sidebar.header('Data')
+st.sidebar.header('How It Works')
 st.sidebar.markdown("""
 Recommendations are generated from a list of 3197 unique beers from 934 different breweries, while taking into account the following aspects of each beer:
 
