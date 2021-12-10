@@ -62,9 +62,9 @@ Recommendations are generated from a list of 3197 unique beers from 934 differen
 """)
 st.sidebar.markdown("----")
 
-st.sidebar.header('About The Recommendation Engine')
+st.sidebar.header('Curious About The Recommendation Engine?')
 st.sidebar.markdown("""
-Curious about the recommendation engine? Find my Kaggle notebook outlining the building process [here](https://www.kaggle.com/ruthgn/creating-a-beer-recommender-deployment).
+Find my Kaggle notebook outlining the building process [here](https://www.kaggle.com/ruthgn/creating-a-beer-recommender-deployment).
 """)
 
 ##########
