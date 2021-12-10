@@ -29,7 +29,7 @@ All recommended beers are selected based on their similarities with your beer of
 ######### Sidebar
 st.sidebar.header('Beer Recommender 🔮')
 # Caption
-st.caption("by [Ruth G. N.](https://www.linkedin.com/in/ruthgn/)")
+st.sidebar.caption("by [Ruth G. N.](https://www.linkedin.com/in/ruthgn/)")
 
 # Social Links
 """
@@ -74,7 +74,7 @@ Kaggle notebook outlining the recommendation engine building process is availabl
 
 # Setting input parameters (collecting user input)
 
-st.sidebar.markdown("----")
+st.markdown("----")
 st.markdown("\n")
 st.markdown("\n")
 
