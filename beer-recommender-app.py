@@ -18,9 +18,9 @@ st.write("""
 # How 'bout a pint? 🍺
 
 This app will generate two sets of beer recommendations for you—the first set will list recommended beers of your **chosen style**, 
-while the second one displays recommended beers of **other styles**.
+while the second one will list recommended beers of **other styles** that are still ***within your chosen beer's taste profile***.
 
-All recommended items are selected based on their similarities with your beer of choice and ranked based on their overall consumer review scores.
+All beer recommendations are ranked based on their overall consumer review scores.
 """)
 
 ##########
