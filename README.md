@@ -9,4 +9,6 @@ Some relevant Kaggle notebooks:
 
 Files (Pending)
 -----
-* [Beer Profile and Ratings Data Set](https://www.kaggle.com/ruthgn/beer-profile-and-ratings-data-set) (beer_profile_and_ratings.csv).
+* [Beer Profile and Ratings Data Set](https://www.kaggle.com/ruthgn/beer-score-prediction-nn-embedding-kerastuner) (updated_beer_profile_and_ratings.csv).
+* List of all packages in the environment where this project was built and run (requirements.txt).
+* Source code (beer-recommender-app.py).
