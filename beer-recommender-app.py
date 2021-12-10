@@ -118,9 +118,9 @@ st.markdown("\n")
 # User Input
 
 def user_input_features():
-    Style = st.selectbox("**What's your favorite beer style?**", (data['Style'].unique()))
+    Style = st.selectbox("What's your favorite beer style?", (data['Style'].unique()))
 
-    style_string = "**Which " + Style + " have you enjoyed recently?**"
+    style_string = "Which " + Style + " have you enjoyed recently?"
     Beer = st.selectbox(style_string, (data[data['Style'] == Style]['Beer Name (Full)'].unique()))
 
     user_input = Beer
