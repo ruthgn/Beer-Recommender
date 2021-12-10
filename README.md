@@ -7,7 +7,7 @@ Some relevant Kaggle notebooks:
 - [Predicting Beer Score - NN, Embedding, KerasTuner](https://www.kaggle.com/ruthgn/beer-score-prediction-nn-embedding-kerastuner).
 
 
-Files (Pending)
+Files
 -----
 * [Beer Profile and Ratings Data Set](https://www.kaggle.com/ruthgn/beer-score-prediction-nn-embedding-kerastuner) (updated_beer_profile_and_ratings.csv).
 * List of all packages in the environment where this project was built and run (requirements.txt).
