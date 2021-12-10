@@ -39,8 +39,6 @@ st.sidebar.write("""
 )
 st.sidebar.markdown("----")
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="ruthgn" data-color="#d6a260" data-emoji="🍺" data-font="Lato" data-text="Buy me a beer" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#FFDD00" ></script>
-
 st.sidebar.header('How It Works')
 st.sidebar.markdown("""
 Recommendations are generated from a list of 3197 unique beers from 934 different breweries and take into consideration the following aspects of each beer:
