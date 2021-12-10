@@ -186,4 +186,4 @@ if display_recommendation_now:
 
 
 st.write('---')
-st.caption("All code and data available in the [project Github repository](https://github.com/ruthgn/Beer-Recommender).")
+st.caption("Complete project code and data available on [Github](https://github.com/ruthgn/Beer-Recommender).")
