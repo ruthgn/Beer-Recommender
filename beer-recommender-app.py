@@ -70,16 +70,6 @@ Kaggle notebook outlining the recommendation engine building process is availabl
 ##########
 
 
-########## Main Panel
-
-# Setting input parameters (collecting user input)
-
-st.markdown("----")
-st.markdown("\n")
-
-##########
-
-
 # Data Preprocessing
 
 full_data = pd.read_csv('updated_beer_profile_and_ratings.csv')
@@ -118,6 +108,11 @@ df_num = data.select_dtypes(exclude=['object'])
 
 
 ########## Main Panel
+
+# Setting input parameters (collecting user input)
+
+st.markdown("----")
+st.markdown("\n")
 
 # User Input
 
