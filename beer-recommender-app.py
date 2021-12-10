@@ -27,7 +27,7 @@ All beer recommendations are ranked based on their overall consumer review score
 
 
 ######### Sidebar
-st.sidebar.header('Beer Recommender 🔮')
+st.sidebar.header('Beer Recommender ⚗️')
 st.sidebar.caption("by [Ruth G. N.](https://www.linkedin.com/in/ruthgn/)")
 
 st.sidebar.markdown("Just in case you need help deciding what beer to try next. *Cheers!*🍻")
