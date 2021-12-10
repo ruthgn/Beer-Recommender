@@ -166,7 +166,7 @@ st.markdown("\n")
 st.markdown("\n")
 
 # Add button to generate recommendations
-st.write("Ready to check out your recommendations?")
+st.write("*Ready to check out your recommendations?*")
 display_recommendation_now = st.button('Beer me!')
 if display_recommendation_now:
     # Generate recommendations
