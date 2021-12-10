@@ -55,10 +55,10 @@ Recommendations are generated from a list of 3197 unique beers from 934 differen
    * Sour
    * Salty
 * **Flavor And Aroma**
-   * Fruits
+   * Fruity
    * Hoppy
    * Spices
-   * Malty 
+   * Malty
 """)
 st.sidebar.markdown("----")
 
