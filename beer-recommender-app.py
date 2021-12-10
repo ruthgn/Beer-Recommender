@@ -64,7 +64,7 @@ st.sidebar.markdown("----")
 
 st.sidebar.header('About The Recommendation Engine')
 st.sidebar.markdown("""
-Kaggle notebook outlining the recommendation engine building process is available [here](https://www.kaggle.com/ruthgn/what-we-talk-about-when-we-talk-about-good-beer).
+Curious about the recommendation engine? Find my Kaggle notebook outlining the building process [here](https://www.kaggle.com/ruthgn/creating-a-beer-recommender-deployment).
 """)
 
 ##########
