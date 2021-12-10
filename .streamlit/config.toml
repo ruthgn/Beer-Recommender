@@ -2,6 +2,6 @@
 
 primaryColor = "#d33682" #magenta-ish
 backgroundColor = "#002b36" # #dark-gray-blue-ish
-secondaryBackgroundColor = "#ffbf00" #amber-yellow
+secondaryBackgroundColor = "#FF8200" #amber-yellow
 textColor = "#fafafa" # white-ish
 font = "sans serif"
