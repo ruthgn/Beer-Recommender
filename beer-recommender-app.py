@@ -32,10 +32,12 @@ st.sidebar.header('Beer Recommender 🔮')
 st.sidebar.caption("by [Ruth G. N.](https://www.linkedin.com/in/ruthgn/)")
 
 # Social Links
-"""
+st.sidebar.write("""
 [![Follow](https://img.shields.io/twitter/follow/RuthInData?style=social)](https://www.twitter.com/RuthInData)
 &nbsp[![Fork](https://img.shields.io/github/forks/ruthgn/Beer-Recommender.svg?logo=github&style=social)](https://github.com/ruthgn/Beer-Recommender)
 """
+)
+
 st.sidebar.markdown("Just in case you need help deciding what beer to drink next. *Cheers!*🍻")
 st.sidebar.markdown("----")
 
