@@ -34,7 +34,7 @@ st.sidebar.markdown("Just in case you need help deciding what beer to try next. 
 # Social Links
 st.sidebar.write("""
 [![Follow](https://img.shields.io/twitter/follow/RuthInData?style=social)](https://www.twitter.com/RuthInData)
-&nbsp[![Star](https://img.shields.io/github/forks/ruthgn/Beer-Recommender.svg?logo=github&style=social)](https://github.com/ruthgn/Beer-Recommender/stargazers)
+&nbsp[![Star](https://img.shields.io/github/stars/ruthgn/Beer-Recommender.svg?logo=github&style=social)](https://github.com/ruthgn/Beer-Recommender/stargazers)
 &nbsp[![Buy me a beer](https://img.shields.io/badge/Buy%20me%20a%20beer--yellow.svg?logo=buy-me-a-coffee&logoColor=orange&style=social)](https://www.buymeacoffee.com/ruthgn)
 """
 )
