@@ -187,4 +187,4 @@ if display_recommendation_now:
 
 
 st.write('---')
-st.caption("Complete project code and data available on [Github](https://github.com/ruthgn/Beer-Recommender).")
+st.caption("Ran into a bug or saw something that needs to be improved on the app? Submit a [Github issue](https://github.com/ruthgn/Beer-Recommender/issues) or [fork the repository](https://github.com/ruthgn/Beer-Recommender) to create a pull request.")
