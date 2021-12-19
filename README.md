@@ -34,7 +34,7 @@ Recommendations are generated from a list of 3197 unique beers from 934 differen
   - Spices
   - Malty
 
-The source data is a slightly modified version of [this](https://www.kaggle.com/ruthgn/beer-profile-and-ratings-data-set) data set on Kaggle. A good number of beers in the original data set have only been reviewed by fewer than 25 people--making their overall favorability scores somewhat questionable, especially when compared to those displayed by beers that have been reviewed by a lot more users. To tackle this issue, the updated data set (used here) contains ML-generated overall scores for beers with fewer than 25 reviewers. To learn about the process in more detail, visit [this](https://www.kaggle.com/ruthgn/beer-score-prediction-nn-embedding-kerastuner) Kaggle notebook.
+The source data is a slightly modified version of [this data set](https://www.kaggle.com/ruthgn/beer-profile-and-ratings-data-set) on Kaggle. A good number of beers in the original data set have only been reviewed by fewer than 25 people--making their overall favorability scores somewhat questionable, especially when compared to those displayed by beers that have been reviewed by a lot more users. To tackle this issue, the updated data set (used here) contains ML-generated overall scores for beers with fewer than 25 reviewers. To learn about the process in more detail, visit this Kaggle [notebook](https://www.kaggle.com/ruthgn/beer-score-prediction-nn-embedding-kerastuner).
 
 ## Tech Stack
 * Python
