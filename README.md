@@ -10,7 +10,7 @@
 
 
 ## About The App
-This is a beer recommender app that generates two sets of beer recommendations based on user input. The first set will list recommended beers of user's **chosen style**, while the second one will list recommended beers of **other styles** that are still ***within the user's chosen beer's taste profile***.
+This is a beer recommender app that generates two sets of beer recommendations based on user input. The first set will list recommended beers of user's **chosen style**, while the second one will list recommended beers of **other styles** that are still ***within the chosen beer's taste profile***.
 
 ### Recommendation Engine
 The recommendation engine powering the app is a content-based recommendation system that utilizes k-Nearest Neighbors algorithm to determine similar items. Items similar to user input are then ranked based on their overall consumer review scores to generate the final recommendations. To see how the recommendation system is built, check out this Kaggle [notebook](https://www.kaggle.com/ruthgn/creating-a-beer-recommender-deployment).
