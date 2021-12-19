@@ -38,7 +38,7 @@ The source data is a slightly modified version of [this data set](https://www.ka
 
 ## Screenshot
 
-| ![screen-gif](assets/AutomatEDA-demo-screencast-1.gif) | 
+| ![screen-gif](assets/beer-recommender-demo-screencast.gif) | 
 |:--:| 
 | *Easily get multiple beer recommendations* |
 
