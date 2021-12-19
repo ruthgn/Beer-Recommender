@@ -175,13 +175,13 @@ if display_recommendation_now:
     # List recommended beers with the same style
     st.subheader('Fancy the same style?')
     top_5_same_style_rec = get_neighbors(data, num_input, style_input, same_style=True)
-    top_5_same_style_rec
+    st.dataframe(top_5_same_style_rec)
 
 
     # List recommended beers with different styles
     st.subheader('Looking for something different?')
     top_5_diff_style_rec = get_neighbors(data, num_input, style_input, same_style=False)
-    top_5_diff_style_rec
+    st.dataframe(top_5_diff_style_rec)
 
 ##########
 
