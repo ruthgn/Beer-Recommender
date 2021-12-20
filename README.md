@@ -70,4 +70,4 @@ streamlit run beer-recommender-app.py
 ```
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/ruthgn/Beer-Recommender/blob/main/LICENSE) file for details.
+This project is licensed under the GNU General Public License - see the [LICENSE](https://github.com/ruthgn/Beer-Recommender/blob/main/LICENSE) file for details.
